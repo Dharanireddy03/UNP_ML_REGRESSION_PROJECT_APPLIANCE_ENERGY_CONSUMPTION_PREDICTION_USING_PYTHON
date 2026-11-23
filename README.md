@@ -1,0 +1,2 @@
+# UNP_ML_REGRESSION_PROJECT_APPLIANCE_ENERGY_CONSUMPTION_PREDICTION_USING_PYTHON
+I did this project in collaboration with UNP (United Network of Professionals). This group project focuses on developing a machine learning approach to predict household appliance energy consumption through data preprocessing, exploratory data analysis, statistical analysis, multicollinearity assessment, and feature selection using Python.
