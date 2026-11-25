@@ -30,8 +30,11 @@ The overall objective is to apply statistical analysis and machine learning tech
 
 Key Takeaways
 
+ 
 This project demonstrates the practical application of data analysis, statistical techniques, feature selection, and regression modelling in addressing a real-world energy consumption prediction problem. It also highlights the importance of data quality, meaningful feature selection, and model evaluation in developing reliable machine learning solutions.
 
- GOOGLE COLAB LINK : https://drive.google.com/file/d/1Qy_QVCc7ixZLqBHqyy3E52TuONMTWWjq/view?usp=drivesdk
+ GOOGLE COLAB LINK :
+ https://drive.google.com/file/d/1Qdw0U8VGW7fAka3VI2lDAgsnKEgOfwJZ/view?usp=drivesdk
+ 
  PRESENTATION LINK :
- https://docs.google.com/presentation/d/1H2DyigSlSlVIioRvXllBaHnwdvyvmVHY/edit?usp=drivesdk&ouid=104520695117016960736&rtpof=true&sd=true
+ https://docs.google.com/presentation/d/1RWjgQwb_PKZE9d0_yc2qURnKlpnQhqWj/edit?usp=drivesdk&ouid=104520695117016960736&rtpof=true&sd=true
